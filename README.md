@@ -26,5 +26,3 @@
 ### Front 
 Una vez se tengan los 2 backends corriendo se puede ver el front en cualquier navegador, accediendo a la carpeta front y abriendo index.html en cualquier navegador
 
-
-Recuerda ajustar las instrucciones según la estructura y configuración específica de tu proyecto.
